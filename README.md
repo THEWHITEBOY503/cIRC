@@ -1,2 +1,2 @@
 # cIRC
-The website for cIRC.services.
+The website for cIRC services.
