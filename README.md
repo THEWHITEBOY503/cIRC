@@ -1,7 +1,7 @@
 # cIRC
 The website for cIRC services.
 
- !(image)[https://death.is-for.me/i/rl9j.png]
+ ![Image](https://death.is-for.me/i/rl9j.png)
 
  An IRC server for anyone.
  The offical IRC server of THEWHITEBOY503!
