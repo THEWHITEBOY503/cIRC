@@ -64,6 +64,7 @@ If you don't know what channel you want to join, feel free to join #general
 `
 
 example:
+
 `
 /join #general
 `
