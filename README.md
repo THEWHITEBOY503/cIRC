@@ -15,34 +15,50 @@ The website for cIRC services.
 Downloading a client is the first step in getting chatting on IRC. Any client will work. Here are the clients i use for my different platforms:
 
 Windows- HexChat https://hexchat.github.io/
+
 macOS- LimeChat http://limechat.net/mac/
+
 Linux (Desktop)- Pidgin https://pidgin.im/
+
 Linux (Terminal) Irssi https://irssi.org/download/
+
 iOS- Mutter https://www.mutterirc.com/
+
 Android- Revolution IRC Client https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en_US
-Chrome OS- CIRC (No, not cIRC) https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US
+
+Chrome OS- CIRC (no affiliation with cIRC services) https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US
+
 Web Browser- IRCCloud (Note- always connected but has paid features) https://irccloud.com
 
 ### Connecting with your client
 
+No 2 clients are the same, so setup will vary. However, if when you open your client and you are able to get to a input box where you can input a message, you will probably be able to connect to cIRC with 3 simple commands.
+
 
 1- (Optional) Set your nickname.
+
 `
 /nick {nickname}
 `
 
 example:
+
 `
 /nick PersonName572
 `
 
+
 2- Connect to cIRC.
+
 `
 /server cservices.ddns.net
 `
 
+
 3- Join a channel.
+
 If you don't know what channel you want to join, feel free to join #general
+
 `
 /join {#channel}
 `
@@ -76,7 +92,7 @@ It does things.
 ### But what does it DO?
 It uhh does things.
 
-### God damnit what does it do 
+### God damnit what does it do
 I'm adding API keys still but it does stuff like rainbow text time conversions last.fm stuff and more
 
 ### That works for me
