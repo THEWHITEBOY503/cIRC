@@ -32,7 +32,7 @@ Web Browser- IRCCloud (Note- always connected but has paid features) https://irc
 
 ### Connecting with your client
 
-No 2 clients are the same, so setup will vary. However, if when you open your client and you are able to get to a input box where you can input a message, you will probably be able to connect to cIRC with 3 simple commands.
+No 2 clients are the same, so setup will vary. However, if you open your client and you are able to get to a input box where you can input a message, you will probably be able to connect to cIRC with 3 simple commands.
 
 
 1- (Optional) Set your nickname.
