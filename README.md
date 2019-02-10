@@ -26,7 +26,7 @@ iOS- Mutter https://www.mutterirc.com/
 
 Android- Revolution IRC Client https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en_US
 
-Chrome OS- CIRC (no affiliation with cIRC services) https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US
+Chrome OS / Google Chrome- CIRC (no affiliation with cIRC services) https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US
 
 Web Browser- IRCCloud (Note- always connected but has paid features) https://irccloud.com
 
@@ -93,7 +93,7 @@ I'm adding API keys still but it does stuff like rainbow text time conversions l
 ### Where can I access IRCbot?
 IRCbot is in #general and #bots. Contact me to get IRCbot added to your channel.
 
- 
+
 
 ## cServices Discord Server
 [Join here](https://discord.gg/5BP5UnT)
