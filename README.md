@@ -14,21 +14,21 @@ The website for cIRC services.
 
 Downloading a client is the first step in getting chatting on IRC. Any client will work. Here are the clients i use for my different platforms:
 
-Windows- HexChat https://hexchat.github.io/
+Windows- [HexChat](https://hexchat.github.io/)
 
-macOS- LimeChat http://limechat.net/mac/
+macOS- [LimeChat](http://limechat.net/mac/)
 
-Linux (Desktop)- Pidgin https://pidgin.im/
+Linux (Desktop)- [Pidgin](https://pidgin.im/)
 
-Linux (Terminal) Irssi https://irssi.org/download/
+Linux (Terminal) [Irssi](https://irssi.org/download/)
 
-iOS- Mutter https://www.mutterirc.com/
+iOS- [Mutter](https://www.mutterirc.com/)
 
-Android- Revolution IRC Client https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en_US
+Android- [Revolution IRC Client](https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en_US)
 
-Chrome OS / Google Chrome- CIRC (no affiliation with cIRC services) https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US
+Chrome OS / Google Chrome- [CIRC (no affiliation with cIRC services)](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn?hl=en-US)
 
-Web Browser- IRCCloud (Note- always connected but has paid features) https://irccloud.com
+Web Browser- [Kiwi IRC](https://kiwiirc.com)
 
 ### Connecting with your client
 
