@@ -1,10 +1,9 @@
 # cIRC
 The website for cIRC services.
 
- ![Image](https://death.is-for.me/i/c4yi.png)
+ ![Image](http://cservices.ddns.net/u/nKLq1p.png)
 
- An IRC server for anyone.
- The offical IRC server of THEWHITEBOY503!
+ An IRC server for anyone and anything.
 
  Connect today! **cservices.ddns.net**
 
@@ -88,7 +87,7 @@ IRC doesn't have a set list of channels. Anyone can make a channel as they pleas
 IRCbot is the bot of cIRC! It does things, like every bot does.
 
 ### What does it do?
-I'm adding API keys still but it does stuff like rainbow text time conversions last.fm stuff and more
+Lots of things. Run `.help` to see the command list.
 
 ### Where can I access IRCbot?
 IRCbot is in #general and #bots. Contact me to get IRCbot added to your channel.
